@@ -3,4 +3,4 @@
 	email = cauenqueiroz@gmail.com
 
 [includeIf "gitdir:~/claro/"]
-  path = .gitconfig-claro
+	path = .gitconfig-claro
