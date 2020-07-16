@@ -1,0 +1,6 @@
+[user]
+	name = Caue Queiroz
+	email = cauenqueiroz@gmail.com
+
+[includeIf "gitdir:~/claro/"]
+  path = .gitconfig-claro
